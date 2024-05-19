@@ -1,6 +1,6 @@
 [wokwi]
 version = 1
-elf = "build/esp32-idf-hello-wifi.elf"
-firmware = "build/esp32-idf-hello-wifi.bin"
+elf = "build/esp32s3-idf-wokwi.elf"
+firmware = "build/esp32s3-idf-wokwi.bin"
 gdbServerPort=3333
 
